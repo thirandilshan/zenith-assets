@@ -3,7 +3,7 @@
     "id": "r1",
     "title": "Vinyl Rain",
     "artist": "Zenith Radio",
-    "image": "https://images.unsplash.com/photo-1516280440614-6697288d5d38?w=400&q=80",
+    "image": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=400&q=80",
     "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/vinyl_rain.mp3"
   },
   {
@@ -59,14 +59,14 @@
     "id": "r9",
     "title": "Sunset Horns",
     "artist": "Zenith Radio",
-    "image": "https://images.unsplash.com/photo-1436891620199-b1399b12d5ab?w=400&q=80",
+    "image": "https://images.unsplash.com/photo-1472120435266-53112dc2de39?w=400&q=80",
     "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/sunset_horns.mp3"
   },
   {
     "id": "r10",
     "title": "Balcony View",
     "artist": "Zenith Radio",
-    "image": "https://images.unsplash.com/photo-1499781350541-7783f6c6a0c8?w=400&q=80",
+    "image": "https://images.unsplash.com/photo-1534234828569-16dcf6c93881?w=400&q=80",
     "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/balcony_view.mp3"
   },
   {
@@ -80,7 +80,7 @@
     "id": "r12",
     "title": "Quiet Brew",
     "artist": "Zenith Radio",
-    "image": "https://images.unsplash.com/photo-1501139083538-0139583c61ee?w=400&q=80",
+    "image": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?w=400&q=80",
     "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/quiet_brew.mp3"
   },
   {
@@ -115,7 +115,7 @@
     "id": "r17",
     "title": "Metro Sax",
     "artist": "Zenith Radio",
-    "image": "https://images.unsplash.com/photo-1465225314224-587cdbc02c8d?w=400&q=80",
+    "image": "https://images.unsplash.com/photo-1573871669414-010dbf73ca84?w=400&q=80",
     "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/metro_sax.mp3"
   },
   {
@@ -129,14 +129,14 @@
     "id": "r19",
     "title": "Late Thoughts",
     "artist": "Zenith Radio",
-    "image": "https://images.unsplash.com/photo-1490971638650-6d3780371665?w=400&q=80",
+    "image": "https://images.unsplash.com/photo-1507608616759-54f48f0af0ee?w=400&q=80",
     "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/late_thoughts.mp3"
   },
   {
     "id": "r20",
     "title": "Dusty Rhodes",
     "artist": "Zenith Radio",
-    "image": "https://images.unsplash.com/photo-1514525253440-b393452e8d26?w=400&q=80",
+    "image": "https://images.unsplash.com/photo-1552422535-c45813c61732?w=400&q=80",
     "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/dusty_rhodes.mp3"
   }
 ]
