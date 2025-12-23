@@ -1,0 +1,142 @@
+[
+  {
+    "id": "r1",
+    "title": "Vinyl Rain",
+    "artist": "Zenith Radio",
+    "image": "https://images.unsplash.com/photo-1516280440614-6697288d5d38?w=400&q=80",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/vinyl_rain.mp3"
+  },
+  {
+    "id": "r2",
+    "title": "Study Night",
+    "artist": "Zenith Radio",
+    "image": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?w=400&q=80",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/study_night.mp3"
+  },
+  {
+    "id": "r3",
+    "title": "Jazz Haze",
+    "artist": "Zenith Radio",
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=400&q=80",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/jazz_haze.mp3"
+  },
+  {
+    "id": "r4",
+    "title": "Dream Flow",
+    "artist": "Zenith Radio",
+    "image": "https://images.unsplash.com/photo-1493225255756-d9584f8606e9?w=400&q=80",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/dream_flow.mp3"
+  },
+  {
+    "id": "r5",
+    "title": "City Echo",
+    "artist": "Zenith Radio",
+    "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=400&q=80",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/city_echo.mp3"
+  },
+  {
+    "id": "r6",
+    "title": "Urban Sleep",
+    "artist": "Zenith Radio",
+    "image": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?w=400&q=80",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/urban_sleep.mp3"
+  },
+  {
+    "id": "r7",
+    "title": "Autumn Tape",
+    "artist": "Zenith Radio",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=400&q=80",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/autumn_tape.mp3"
+  },
+  {
+    "id": "r8",
+    "title": "Morning Static",
+    "artist": "Zenith Radio",
+    "image": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=400&q=80",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/morning_static.mp3"
+  },
+  {
+    "id": "r9",
+    "title": "Sunset Horns",
+    "artist": "Zenith Radio",
+    "image": "https://images.unsplash.com/photo-1436891620199-b1399b12d5ab?w=400&q=80",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/sunset_horns.mp3"
+  },
+  {
+    "id": "r10",
+    "title": "Balcony View",
+    "artist": "Zenith Radio",
+    "image": "https://images.unsplash.com/photo-1499781350541-7783f6c6a0c8?w=400&q=80",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/balcony_view.mp3"
+  },
+  {
+    "id": "r11",
+    "title": "Cafe Loop",
+    "artist": "Zenith Radio",
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&q=80",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/cafe_loop.mp3"
+  },
+  {
+    "id": "r12",
+    "title": "Quiet Brew",
+    "artist": "Zenith Radio",
+    "image": "https://images.unsplash.com/photo-1501139083538-0139583c61ee?w=400&q=80",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/quiet_brew.mp3"
+  },
+  {
+    "id": "r13",
+    "title": "Moon Echo",
+    "artist": "Zenith Radio",
+    "image": "https://images.unsplash.com/photo-1532667449560-72a95c8d381b?w=400&q=80",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/moon_echo.mp3"
+  },
+  {
+    "id": "r14",
+    "title": "Lunar Drift",
+    "artist": "Zenith Radio",
+    "image": "https://images.unsplash.com/photo-1518063319789-7217e6706b04?w=400&q=80",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/lunar_drift.mp3"
+  },
+  {
+    "id": "r15",
+    "title": "Alley Rain",
+    "artist": "Zenith Radio",
+    "image": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=400&q=80",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/alley_rain.mp3"
+  },
+  {
+    "id": "r16",
+    "title": "Moody Keys",
+    "artist": "Zenith Radio",
+    "image": "https://images.unsplash.com/photo-1483032469466-b937c425697b?w=400&q=80",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/moody_keys.mp3"
+  },
+  {
+    "id": "r17",
+    "title": "Metro Sax",
+    "artist": "Zenith Radio",
+    "image": "https://images.unsplash.com/photo-1465225314224-587cdbc02c8d?w=400&q=80",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/metro_sax.mp3"
+  },
+  {
+    "id": "r18",
+    "title": "Downtown Vibe",
+    "artist": "Zenith Radio",
+    "image": "https://images.unsplash.com/photo-1480796927426-f609979314bd?w=400&q=80",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/downtown_vibe.mp3"
+  },
+  {
+    "id": "r19",
+    "title": "Late Thoughts",
+    "artist": "Zenith Radio",
+    "image": "https://images.unsplash.com/photo-1490971638650-6d3780371665?w=400&q=80",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/late_thoughts.mp3"
+  },
+  {
+    "id": "r20",
+    "title": "Dusty Rhodes",
+    "artist": "Zenith Radio",
+    "image": "https://images.unsplash.com/photo-1514525253440-b393452e8d26?w=400&q=80",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/dusty_rhodes.mp3"
+  }
+]
