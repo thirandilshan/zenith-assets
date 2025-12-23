@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "Heavy Rain",
+    "category": "atmosphere",
+    "icon": "rain",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/heavy_rain.mp3",
+    "volume": 0.5
+  },
+  {
+    "id": "2",
+    "name": "Rolling Thunder",
+    "category": "atmosphere",
+    "icon": "thunder",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/rolling_thunder.mp3",
+    "volume": 0.5
+  },
+  {
+    "id": "3",
+    "name": "Forest Wind",
+    "category": "atmosphere",
+    "icon": "wind",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/forest_wind.mp3",
+    "volume": 0.5
+  },
+  {
+    "id": "4",
+    "name": "Crackling Fire",
+    "category": "atmosphere",
+    "icon": "fire",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/crackling_fire.mp3",
+    "volume": 0.5
+  },
+  {
+    "id": "5",
+    "name": "Ocean Waves",
+    "category": "atmosphere",
+    "icon": "water",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/ocean_waves.mp3",
+    "volume": 0.5
+  },
+  {
+    "id": "6",
+    "name": "Flowing River",
+    "category": "atmosphere",
+    "icon": "river",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/flowing_river.mp3",
+    "volume": 0.5
+  },
+  {
+    "id": "7",
+    "name": "Morning Birds",
+    "category": "atmosphere",
+    "icon": "bird",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/morning_birds.mp3",
+    "volume": 0.5
+  },
+  {
+    "id": "8",
+    "name": "Night Crickets",
+    "category": "atmosphere",
+    "icon": "night",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/night_crickets.mp3",
+    "volume": 0.5
+  },
+  {
+    "id": "9",
+    "name": "Ceiling Fan",
+    "category": "atmosphere",
+    "icon": "fan",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/ceiling_fan.mp3",
+    "volume": 0.5
+  },
+  {
+    "id": "10",
+    "name": "White Noise",
+    "category": "atmosphere",
+    "icon": "noise",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/white_noise.mp3",
+    "volume": 0.5
+  },
+  {
+    "id": "11",
+    "name": "Pink Noise",
+    "category": "atmosphere",
+    "icon": "noise",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/pink_noise.mp3",
+    "volume": 0.5
+  },
+  {
+    "id": "12",
+    "name": "Brown Noise",
+    "category": "atmosphere",
+    "icon": "noise",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/brown_noise.mp3",
+    "volume": 0.5
+  },
+  {
+    "id": "13",
+    "name": "Busy Cafe",
+    "category": "atmosphere",
+    "icon": "coffee",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/busy_cafe.mp3",
+    "volume": 0.5
+  },
+  {
+    "id": "14",
+    "name": "Distant Train",
+    "category": "atmosphere",
+    "icon": "train",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/distant_train.mp3",
+    "volume": 0.5
+  },
+  {
+    "id": "15",
+    "name": "Underwater",
+    "category": "atmosphere",
+    "icon": "water_drop",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/underwater.mp3",
+    "volume": 0.5
+  }
+]
