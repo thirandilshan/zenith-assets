@@ -1,0 +1,72 @@
+[
+  {
+    "id": "m1",
+    "name": "Deep Focus",
+    "category": "mood",
+    "icon": "brain",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/deep_focus.mp3"
+  },
+  {
+    "id": "m2",
+    "name": "Sweet Sleep",
+    "category": "mood",
+    "icon": "moon",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/sweet_sleep.mp3"
+  },
+  {
+    "id": "m3",
+    "name": "Anxiety Relief",
+    "category": "mood",
+    "icon": "lotus",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/anxiety_relief.mp3"
+  },
+  {
+    "id": "m4",
+    "name": "Creative Flow",
+    "category": "mood",
+    "icon": "brush",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/creative_flow.mp3"
+  },
+  {
+    "id": "m5",
+    "name": "Morning Energy",
+    "category": "mood",
+    "icon": "sun",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/morning_energy.mp3"
+  },
+  {
+    "id": "m6",
+    "name": "Zen Meditation",
+    "category": "mood",
+    "icon": "stone",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/zen_meditation.mp3"
+  },
+  {
+    "id": "m7",
+    "name": "Deep Space",
+    "category": "mood",
+    "icon": "rocket",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/deep_space.mp3"
+  },
+  {
+    "id": "m8",
+    "name": "Study Lo-Fi",
+    "category": "mood",
+    "icon": "book",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/study_lofi.mp3"
+  },
+  {
+    "id": "m9",
+    "name": "Calm Spa",
+    "category": "mood",
+    "icon": "flower",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/calm_spa.mp3"
+  },
+  {
+    "id": "m10",
+    "name": "Melancholy",
+    "category": "mood",
+    "icon": "cloud",
+    "url": "https://github.com/thirandilshan/zenith-assets/raw/refs/heads/main/melancholy.mp3"
+  }
+]
